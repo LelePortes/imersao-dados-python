@@ -5,17 +5,17 @@ Este projeto foi desenvolvido durante a Imersão Dados com Python, com o objetiv
 Utilizando Python e bibliotecas como Pandas, Plotly e Streamlit, criei um dashboard interativo que permite filtrar e analisar informações de forma dinâmica.
 
 ## 🚀 Funcionalidades
-↳ Filtrar por ano, senioridade, tipo de contrato e tamanho da empresa
-↳ Visualizar salários por cargo e país em gráficos interativos e mapas geográficos
-↳ Analisar a proporção dos tipos de trabalho (presencial, remoto, híbrido)
-↳ Explorar métricas gerais e identificar cargos com maiores salários
-↳ Navegar pela base de dados completa de forma intuitiva
+- Filtrar por ano, senioridade, tipo de contrato e tamanho da empresa
+- Visualizar salários por cargo e país em gráficos interativos e mapas geográficos
+- Analisar a proporção dos tipos de trabalho (presencial, remoto, híbrido)
+- Explorar métricas gerais e identificar cargos com maiores salários
+- Navegar pela base de dados completa de forma intuitiva
 
 ## 🛠 Tecnologias Utilizadas
-↳ Python
-↳ Pandas
-↳ Streamlit
-↳ Plotly
+- Python
+- Pandas
+- Streamlit
+- Plotly
 
 ## 📌 Objetivo do Projeto
 O projeto visa analisar dados salariais para ajudar:
