@@ -19,7 +19,7 @@ Utilizando Python e bibliotecas como Pandas, Plotly e Streamlit, criei um dashbo
 
 ## 📌 Objetivo do Projeto
 O projeto visa analisar dados salariais para ajudar:
-  **Profissionais:** a planejarem sua carreira na área de dados
-  **Empresas:** a ajustarem estratégias de contratação e retenção de talentos
+- **Profissionais:** a planejarem sua carreira na área de dados
+- **Empresas:** a ajustarem estratégias de contratação e retenção de talentos
 
 **Dashboard Online:** https://python-dados-imersao.streamlit.app/#e480fdec
